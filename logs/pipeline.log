@@ -1,0 +1,5 @@
+2026-01-03 21:25:01,692 - ERROR - Error in data ingestion: 404 Client Error: Not Found for url: https://fakestoreapi.com/orders
+2026-01-03 21:27:54,204 - INFO - Data ingestion completed: 7 records fetched.
+2026-01-03 21:27:54,246 - INFO - Data processing completed: 14 records processed.
+2026-01-03 21:27:54,272 - INFO - Data loaded successfully into SQLite database 'ecommerce.db'.
+2026-01-03 21:53:13,908 - ERROR - Error in data ingestion: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
